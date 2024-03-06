@@ -35,3 +35,4 @@ Entorno de desarrollo: el proyecto se desarrolló utilizando Eclipse con el plug
 
 ![eclipse](https://github.com/LauGonzAl/Calculadora-de-propinas/assets/154239577/59b80047-4e3e-4c65-bbfd-2b68625f4a81)
 
+![calc_proceso](https://github.com/LauGonzAl/Calculadora-de-propinas/assets/154239577/22763cb6-254d-4d6b-beb0-3844ddf5be6b)
